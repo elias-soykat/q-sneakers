@@ -11,7 +11,7 @@
     "react-chartjs-2": "^4.2.0",
     "react-dom": "^18.0.0",
     "react-helmet": "^6.1.0",
-    "react-hot-toast": "^2.2.0",
+    "react-hot-toast": "^2.4.0",
     "react-rating": "^2.0.5",
     "react-redux": "^7.2.8",
     "react-router-dom": "^6.3.0",
